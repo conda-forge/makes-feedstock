@@ -1,5 +1,5 @@
 context:
-  version: 3.2.0
+  version: "4.0.0"
 
 package:
   name: makes
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/makes/-/makes-${{ version }}.tgz
-  sha256: 2b185bd30ad4cdf3ec545f8645db1ce3ed06cb8325458c27baf5b7d6b8d55380
+  sha256: 45add35d0a60e1bcd5d43b84fc9ff69f73c860822e73f573093eb5d36a8b6f9a
 
 build:
   number: 0
